@@ -31,6 +31,7 @@
 		php artisan key:generate
      
 4 - Altere o arquivo .env.example para .env </br>
+
 5 - Altere o conteudo do arquivo .env com as configurações de banco de dados </br>
     - banco de dados </br>
     DB_CONNECTION=mysql </br>

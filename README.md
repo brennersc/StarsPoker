@@ -18,7 +18,7 @@
 
 3- Ultilize o Terninal da sua maquina para</br>
 
-	- Instale o FremeWork Laravel
+	- Instale o FrameWork Laravel
 		composer global require laravel/installer
 
 	- Clone o Projeto
